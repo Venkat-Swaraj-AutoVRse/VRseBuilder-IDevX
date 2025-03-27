@@ -1,5 +1,5 @@
 {
-    "name": "com.AutoVRse.VRseQATools",
+    "name": "com.autovrse.vrseqatools",
     "version": "1.0.0",
     "displayName": "VRse QA Tools",
     "description": "utility scripts to help speed up testing for QA Team and as well as developers",
