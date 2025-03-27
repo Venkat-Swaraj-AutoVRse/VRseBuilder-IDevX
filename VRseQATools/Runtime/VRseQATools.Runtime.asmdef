@@ -1,0 +1,17 @@
+{
+    "name": "VRseQATools.Runtime",
+    "rootNamespace": "VRseQATools",
+    "references": [
+        "GUID:7040c93f6035f5749888e6fdf5ef28f8",
+        "GUID:f64c9ebcd7899c3448a08dc9f9ddbe30"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

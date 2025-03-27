@@ -1,0 +1,20 @@
+{
+    "name": "com.AutoVRse.VRseQATools",
+    "version": "1.0.0",
+    "displayName": "VRse QA Tools",
+    "description": "utility scripts to help speed up testing for QA Team and as well as developers",
+    "unity": "2022.3",
+    "dependencies": { 
+        "com.meta.xr.sdk.core":"71.0.0"
+    },
+   "keywords": [
+      "QA Tools"
+    ],
+    "author": {
+      "name": "Venkat Swaraj Goli",
+      "email": "venkat.swaraj@autovrse.in",
+      "url": "https://www.venkatswaraj.xyz"
+    }
+  }
+  
+  
